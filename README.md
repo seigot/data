@@ -1,2 +1,2 @@
 # data
-for data
+for release data
