@@ -7,6 +7,6 @@ for release data
 
 | Date  |  Title  |  URL  |  note  |
 | ---- | ---- | ---- | ---- |
-|  Thursday, May 23, 2024 6:30 PM  |  baypiggies  |  https://www.meetup.com/baypiggies/events/300647354/  |  -  |
+|  2024/5/23  6:30 PM  |  baypiggies  |  https://www.meetup.com/baypiggies/events/300647354/  |  -  |
 | ---- | ---- | ---- | ---- |
 
