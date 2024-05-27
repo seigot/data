@@ -11,4 +11,6 @@ ex.)
 | Date  |  Title  |  URL  |  note  |
 | ---- | ---- | ---- | ---- |
 |  2024/5/23  6:30 PM  |  baypiggies  |  https://www.meetup.com/baypiggies/events/300647354/  |  -  |
+|  monthly virtual meetup on the 2nd Wednesday  |    |  https://www.sfpythonmeetup.com/contribute  |  -  |
+|  2024/9/21  |  PyBay  |  https://pybay.org/  |  -  |
 
