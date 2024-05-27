@@ -26,6 +26,7 @@ Event Site
 
 Place
 | Title  |  URL  |  note  |
+| ---- | ---- | ---- |
 | hackerdojo | https://hackerdojo.org/ | ---- |
 | makernexus | https://www.makernexus.org | ---- |
 
