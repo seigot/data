@@ -20,4 +20,6 @@ Event Site
 | ---- | ---- | ---- |
 | events.stanford.edu | [https://events.stanford.edu/calendar](https://events.stanford.edu/calendar) | ---- |
 | Upcoming SF Python Events | [Upcoming SF Python Events](https://www.sfpythonmeetup.com/)   | ---- |
-| meetup.com/baypiggies/events | [https://www.meetup.com/baypiggies/events](https://www.meetup.com/baypiggies/events)     | ---- |  
+| baypiggies/events | [https://www.meetup.com/baypiggies/events](https://www.meetup.com/baypiggies/events)     | ---- |  
+| meetup.com, san jose, CA |  https://www.meetup.com/  | ---- |
+| eventbrite.com, san jose, CA |  https://www.eventbrite.com/  | ---- |
