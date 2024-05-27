@@ -14,7 +14,7 @@ ex.)
 |  monthly virtual meetup on the 2nd Wednesday  |    |  https://www.sfpythonmeetup.com/contribute  |  -  |
 |  2024/9/21  |  PyBay  |  https://pybay.org/  |  -  |
 
-Event Site
+イベント検索サイト
 
 | Title  |  URL  |  note  |
 | ---- | ---- | ---- |
@@ -24,12 +24,14 @@ Event Site
 | meetup.com, san jose, CA |  https://www.meetup.com/  | ---- |
 | eventbrite.com, san jose, CA |  https://www.eventbrite.com/  | ---- |
 
-Place
+最寄りのテックスペース的な場所  
+
 | Title  |  URL  |  note  |
 | ---- | ---- | ---- |
 | hackerdojo | https://hackerdojo.org/ | ---- |
 | makernexus | https://www.makernexus.org | ---- |
 
-tools  
+便利ツール  
 https://zoom.us
+https://otter.ai  
 
