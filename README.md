@@ -30,3 +30,6 @@ Place
 | hackerdojo | https://hackerdojo.org/ | ---- |
 | makernexus | https://www.makernexus.org | ---- |
 
+tools  
+https://zoom.us
+
