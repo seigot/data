@@ -15,6 +15,7 @@ ex.)
 |  2024/9/21  |  PyBay  |  https://pybay.org/  |  -  |
 
 Event Site
-[https://events.stanford.edu/calendar](https://events.stanford.edu/calendar)  
-[https://www.meetup.com/baypiggies/events](https://www.meetup.com/baypiggies/events)  
-[Upcoming SF Python Events](https://www.sfpythonmeetup.com/)  
+| Title  |  URL  |  note  |
+| events.stanford.edu | [https://events.stanford.edu/calendar](https://events.stanford.edu/calendar) | ---- |
+| Upcoming SF Python Events | [Upcoming SF Python Events](https://www.sfpythonmeetup.com/)   | ---- |
+| www.meetup.com/baypiggies/events | [https://www.meetup.com/baypiggies/events](https://www.meetup.com/baypiggies/events)     | ---- |  
