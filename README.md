@@ -14,3 +14,7 @@ ex.)
 |  monthly virtual meetup on the 2nd Wednesday  |    |  https://www.sfpythonmeetup.com/contribute  |  -  |
 |  2024/9/21  |  PyBay  |  https://pybay.org/  |  -  |
 
+Event Site
+[https://events.stanford.edu/calendar](https://events.stanford.edu/calendar)  
+[https://www.meetup.com/baypiggies/events](https://www.meetup.com/baypiggies/events)  
+[Upcoming SF Python Events](https://www.sfpythonmeetup.com/)  
