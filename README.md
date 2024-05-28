@@ -30,6 +30,7 @@ ex.)
 | ---- | ---- | ---- |
 | hackerdojo | https://hackerdojo.org/ | ---- |
 | makernexus | https://www.makernexus.org | ---- |
+| plugandplaytechcenter | https://www.plugandplaytechcenter.com/ | ---- |
 
 # 便利ツール  
 https://zoom.us  
