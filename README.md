@@ -34,5 +34,5 @@ ex.)
 
 # 便利ツール  
 https://zoom.us  
-https://otter.ai   
-
+https://otter.ai  
+https://chatgpt.com  
