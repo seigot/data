@@ -3,7 +3,7 @@ for release data
 
 [20240519_MakerFaire Piedmont](https://github.com/seigot/data/releases/tag/20240519)  
 
-# 参加予定のイベント..
+# 参加したいイベント..
 
 [link](https://docs.google.com/spreadsheets/d/18HqEWTvl4AJ_i-3Rb98z_jSpxkSrfSVl2fxXA74kAsQ/edit?gid=0#gid=0)  
 
