@@ -5,7 +5,7 @@ for release data
 
 # 参加予定のイベント..
 
-[link]([https://docs.google.com/spreadsheets/d/1J3kHZOb3RgrAXqKeB78dZSqdBXrGJi3SKgpeEZ8KRK8/edit?usp=sharing](https://docs.google.com/spreadsheets/d/18HqEWTvl4AJ_i-3Rb98z_jSpxkSrfSVl2fxXA74kAsQ/edit?gid=0#gid=0))  
+[link](https://docs.google.com/spreadsheets/d/18HqEWTvl4AJ_i-3Rb98z_jSpxkSrfSVl2fxXA74kAsQ/edit?gid=0#gid=0)  
 
 ex.)
 | Date  |  Title  |  URL  |  note  |
