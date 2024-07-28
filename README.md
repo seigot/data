@@ -23,6 +23,7 @@ ex.)
 | baypiggies/events | [https://www.meetup.com/baypiggies/events](https://www.meetup.com/baypiggies/events)     | ---- |  
 | meetup.com, san jose, CA |  https://www.meetup.com/  | ---- |
 | eventbrite.com, san jose, CA |  https://www.eventbrite.com/  | ---- |
+| luma |  [https://www.eventbrite.com/](https://lu.ma)  | ---- |
 
 # 最寄りのテックスペース的な場所  
 
