@@ -33,6 +33,11 @@ ex.)
 | makernexus | https://www.makernexus.org | ---- |
 | plugandplaytechcenter | https://www.plugandplaytechcenter.com/ | ---- |
 
+# 自動運転AIチャレンジ
+
+[ai_challenge](https://docs.google.com/presentation/d/1iBBjG3d3YS0-RWEHZL5rKltAtRFrYH_dcYA3-LaIBPU/edit#slide=id.g2efb09620d1_0_0)
+
+
 # 便利ツール  
 https://zoom.us  
 https://otter.ai  
